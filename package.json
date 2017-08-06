@@ -12,7 +12,7 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/animations": "^4.0.0",
+    "@angular/animations": "4.3.2",
     "@angular/common": "^4.0.0",
     "@angular/compiler": "^4.0.0",
     "@angular/core": "^4.0.0",
@@ -23,7 +23,12 @@
     "@angular/router": "^4.0.0",
     "core-js": "^2.4.1",
     "rxjs": "^5.4.1",
-    "zone.js": "^0.8.14"
+    "ngx-dropzone-wrapper": "4.5.3",
+    "downloadjs": "1.4.7",
+    "@angular/material": "2.0.0-beta.8",
+    "@angular/cdk": "2.0.0-beta.8",
+    "jquery": "3.2.1",
+    "jqueryui": "1.11.1"
   },
   "devDependencies": {
     "@angular/cli": "1.2.6",
